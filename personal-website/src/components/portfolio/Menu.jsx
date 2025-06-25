@@ -36,7 +36,7 @@ const Menu = [
         image: EmployeeIcon,
         title: "Employee Management",
         category: "Java",
-        url: "#"
+        url: "https://github.com/zstlouis/Employee_Management"
     },
       {
         id: 5,
