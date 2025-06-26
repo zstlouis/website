@@ -5,6 +5,8 @@
 
 .about_img{
     mix-blend-mode: multiply;
+    border-radius: 50%;
+    box-shadow: var(--shadow);
 }
 
 .about_data{

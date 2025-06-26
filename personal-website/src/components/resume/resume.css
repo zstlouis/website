@@ -44,8 +44,8 @@
     padding: 0.4375rem 0;
 }
 
-.time_date{
-    color: #8b88b1;
+.timeline_date{
+    color: #000000;
     font-size: var(--small-font-size);
 
 }
@@ -53,4 +53,9 @@
 .timeline_title{
     font-size: var(--h3-font-size);
     margin: 0.5rem 0;
+}
+
+.timeline_company{
+      color: #3223ff;
+     font-size: var(--h4-font-size);
 }

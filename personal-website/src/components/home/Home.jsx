@@ -1,6 +1,6 @@
 import React from 'react'
 import "./home.css"
-import Me from "../../assets/me-avatar.jpg"
+import Me from "../../assets/profile-pic-home.jpg"
 import HeaderSocials from './HeaderSocials'
 import ScrollDown from './ScrollDown'
 const Home = () => {

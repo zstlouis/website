@@ -14,6 +14,10 @@
 .home_img{
     margin-bottom: 1.5rem;
     mix-blend-mode: multiply;
+    border-radius: 50%;
+    width: 20rem;
+    box-shadow: var(--shadow);
+  
 }
 
 .home_name{
