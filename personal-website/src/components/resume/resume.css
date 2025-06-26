@@ -45,7 +45,7 @@
 }
 
 .timeline_date{
-    color: #000000;
+
     font-size: var(--small-font-size);
 
 }
@@ -56,6 +56,6 @@
 }
 
 .timeline_company{
-      color: #3223ff;
+     
      font-size: var(--h4-font-size);
 }
