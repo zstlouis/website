@@ -8,8 +8,9 @@ const Data = [
         year: '2022-Present ',
         company: 'IBM',
         title: 'Staff Software Engineer',
-        desc: "Consult with clients to diagnose and resolve product issues included in the Maximo Application Suite. Work with telemetry tools to collect and analyze data \
-        to identify performance bottlenecks. Conduct presentations on Maximo functionality as well as assisted with creating training \
+        desc: "Consult with clients to diagnose and resolve product issues included in the Maximo Application Suite.\
+        Work with telemetry tools to collect and analyze data to identify performance bottlenecks. Conduct presentations \
+        on Maximo functionality as well as assisted with creating training \
         documentation for all new hires of Maximo application team. Leverage and train IBM AI for problem resolution."
     },
      {
