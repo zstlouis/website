@@ -1,7 +1,5 @@
-import Work1 from "../../assets/comp-vision.jpg"
 import CarIcon from "../../assets/car-price-project-icon.jpg"
 import HouseIcon from "../../assets/house-price-project-icon.jpg"
-import RESTIcon from "../../assets/rest-api-project-icon.jpg"
 import FingerIcon from "../../assets/finger-count-project-icon.jpg"
 import KeyboardIcon from "../../assets/keyboard-project-icon.jpg"
 import BreastCancerIcon from "../../assets/breast-cancer-project-icon.jpg"
@@ -29,7 +27,7 @@ const Menu = [
         image: MovieIcon,
         title: "Movie Finder",
         category: "React",
-        url: ""
+        url: "https://github.com/zstlouis/movie_finder/tree/main"
     },
       {
         id: 4,
@@ -52,29 +50,22 @@ const Menu = [
         category: "Computer Vision",
         url: "https://github.com/zstlouis/ComputerVisionOpenCV/tree/main/FingerCounter"
     },
-      {
-        id: 7,
-        image: RESTIcon,
-        title: "REST APIs",
-        category: "Java",
-        url: "REST#"
-    },
     {
-        id: 8,
+        id: 7,
         image: CarIcon,
         title: "Car Price Prediction",
         category: "Machine Learning",
         url: "https://github.com/zstlouis/MLProjects/tree/master/Car_Price_Prediction"
     },
       {
-        id: 9,
+        id: 8,
         image: HouseIcon,
         title: "Housing Price Prediction",
         category: "Machine Learning",
         url: "https://github.com/zstlouis/TensorflowProjects/tree/master/Breast_Cancer_Classification"
     },
       {
-        id: 10,
+        id: 9,
         image: SpamIcon,
         title: "Spam Email Detection",
         category: "Machine Learning",
