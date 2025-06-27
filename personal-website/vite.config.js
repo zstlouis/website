@@ -6,6 +6,6 @@ import react from '@vitejs/plugin-react'
 //   plugins: [react()],
 // })
 export default defineConfig({
-  base: "/{your-repo-name}",
+  base: "/{website}",
   plugins: [react()],
 }) 
