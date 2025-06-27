@@ -131,7 +131,6 @@ img {
 
 .section_title::before {
   content: '';
-  background: url("../../assets/ripple-bg.jpg");
   height: 2.25rem;
   width: 2.25rem;
   position: absolute;
