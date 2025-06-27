@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css"
 import Image from "../../assets/profile-pic-about.jpg";
-import Resume from "../../assets/resume/Resume_2025.pdf"
+import Resume from "../../assets/resume/Zach_Resume.pdf"
 const About = () => {
 
   const about_me = 'Hello my name is Zach St. Louis, and I am Staff Software Engineer @ IBM.  \
@@ -19,7 +19,7 @@ const About = () => {
           <div className="about_info">
             <p className="about_description"> {about_me}
             </p>
-              <a className='btn' href={Resume} download="Zach_Resume">Download CV</a>
+              <a className='btn' href={Resume} download="Resume">Download CV</a>
           </div>
           <div className="about_skills grid">
             <div className='skills_data'>

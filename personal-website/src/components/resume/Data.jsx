@@ -20,7 +20,7 @@ const Data = [
         company: 'IBM',
         title: 'Software Engineer',
         desc: "Subject Matter Expert (SME) for Maximo Spatial where I assisted clients with data design \
-        and integration between Maximo Spatial and ArcGIS products. Supported clients with Maximo and Maximo Spatial environment upgrades\
+        and integration between Maximo Spatial and ArcGIS products. Supported clients with Maximo and Maximo Spatial environment upgrades.\
         Published technical documentation for Maximo and Maximo Spatial"
     },
      {
